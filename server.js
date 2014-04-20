@@ -48,3 +48,5 @@ http.createServer(function(req, res) {
 
 
 }).listen(3000);
+
+console.log("Server run and listening http://localhost:3000");
